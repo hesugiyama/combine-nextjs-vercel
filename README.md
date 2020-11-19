@@ -1,5 +1,5 @@
 # combine-nextjs-vercel
-Some scratch to learn more about two technologies.
+Some scratch to deploy with vercel.
 
 
 We are in production!!!
