@@ -4,4 +4,4 @@ Some scratch to learn more about two technologies.
 
 We are in production!!!
 
-https://combine-nextjs-vercel-i1rd7365j.vercel.app
+https://combine-nextjs-vercel-lgs42uszq.vercel.app
